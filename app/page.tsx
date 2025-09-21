@@ -1,7 +1,6 @@
 import About from "@/components/about";
 import Blog from "@/components/blog";
 import Contact from "@/components/contact";
-import FAQ from "@/components/faq";
 import Footer from "@/components/footer";
 import Hero from "@/components/hero";
 import { Navbar } from "@/components/navbar";
@@ -22,7 +21,6 @@ export default function Home() {
         <Team />
         <Blog />
         <Testimonials />
-        {/* <FAQ /> */}
         <Contact />
         <Footer />
       </main>
